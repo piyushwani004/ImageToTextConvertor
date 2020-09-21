@@ -1,0 +1,84 @@
+                                                                          Piyush Ajay Wani 
+ 
+Objective 
+   To contribute my learning with a progressive organization that will 
+give me a scope to apply my knowledge and skill and include me as 
+part of team to work towards the growth of organization. 
+ 
+                 Personal Info  
+ 
+Address 
+   Plot no. 08, Datta Colony, Shahunagar  
+Jalgaon-425001 
+ 
+E-mail 
+  Piyushwani04@gmail.com 
+ 
+Contact No. 
+ +91 8446785909 
+ 
+Portfolio 
+https://piyushwani004.github.io/portfolio/ 
+ 
+Linkedin 
+https://www.linkedin.com/in/piyushwan
+i004/ 
+ 
+Github 
+https://github.com/piyushwani004 
+ 
+ 
+Languages 
+ English 
+ Hindi 
+ Marathi 
+ 
+ 
+Skills 
+C++              (Intermediate)    
+J2SE  (Advanced) 
+J2EE             (Advanced)  
+JAVAFX            (Advanced)  
+SQL              (Intermediate) 
+ HTML5 (Intermediate)  
+CSS3  (Intermediate) 
+Education 
+ 2020 BE , SPPU 
+Zeal Collage Of Engineering And Research , Pune. 
+8.00 GPA 
+ 
+2016-2019 Diploma , MSBTE 
+Shree Gulabrao Devker Polytechnic, Jalgaon. 
+80.00 % 
+ 
+2011-2016 SSC , Nashik Divisional Board 
+R.R. Vidyalaya , Jalgaon. 
+82.40 % 
+ 
+Projects 
+ 
+CHAT APPLICATION       A chat service application for   exchanging     
+                                      RSA encrypted message b/w server and client . 
+           https://github.com/piyushwani004/chat-Application 
+ 
+Voter Application   Collage Election System is web Application developed 
+                                     In java .This Application provides easy and simple  
+                                     Way to both Administrator,voter can give their votes  
+                                    To collage from anywhere and at any time.    
+               https://github.com/piyushwani004/Voter-Application  
+Hospital Management      Hospital Management System project in java using  
+         System                  jsp and servlet ,mysql and netbeans .It using java as    
+                                     core  technology and mysql as backend manage the   
+           data record.Application is Following MVC architechture. 
+    https://github.com/piyushwani004/HospitalManagementSysyem 
+Online House-Rent        House  Rental portal is webpage where house  
+    System                        owner,client,customer can exchange information  
+                                       Effectively and inexpensively.Provide user-friendly 
+                                       Interface,satisfying the easy management of   
+                                       Rental-house.                          
+              https://github.com/piyushwani004/OnlineHouseRentingSystem   
+Voice Calculator      voice calculator is build using java and javafx as a 
+                       GUI.This application provides easy and convert  
+                               Speech recording into text with the help of Sphinix 
+                               Acoustic  Model .           
+           https://github.com/piyushwani004/Voice-Calculator 
