@@ -52,11 +52,12 @@ public class FXMLDocumentController implements Initializable {
 
     @Override
     public void initialize(URL url, ResourceBundle rb) {
-
-        dialog.setTitle("Dialog");
+        imgname.setText("");
+        pdfname.setText("");
+        dialog.setTitle("Notification");
 
         //Setting the content of the dialog
-        dialog.setContentText("File Created successfully");
+        dialog.setContentText(" Text File Created successfully");
         //Adding buttons to the dialog pane
         dialog.getDialogPane().getButtonTypes().add(type);
 
